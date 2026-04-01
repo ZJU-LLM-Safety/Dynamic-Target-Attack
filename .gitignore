@@ -17,6 +17,8 @@ env/
 
 # Local secrets
 .env
+.codex
+.claude
 
 # Generated research artifacts
 data/*
